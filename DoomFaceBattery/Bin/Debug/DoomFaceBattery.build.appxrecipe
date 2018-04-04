@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-RU80K9G</Machine>
+    <WindowsUser>Daniel Kaas</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8c77f61b-85e7-4fc2-93db-c94d9d6f9545</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Daniel Kaas</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Bin\Debug\DoomFaceBattery.dll">
+      <PackagePath>DoomFaceBattery.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomBloody - Kopi.png">
+      <PackagePath>Assets\ImageFace\DoomBloody - Kopi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomBloody.png">
+      <PackagePath>Assets\ImageFace\DoomBloody.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomBloodyL.png">
+      <PackagePath>Assets\ImageFace\DoomBloodyL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomBloodyS.png">
+      <PackagePath>Assets\ImageFace\DoomBloodyS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomDirty.png">
+      <PackagePath>Assets\ImageFace\DoomDirty.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomDirtyL.png">
+      <PackagePath>Assets\ImageFace\DoomDirtyL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomDirtyS.png">
+      <PackagePath>Assets\ImageFace\DoomDirtyS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomGoodFace.png">
+      <PackagePath>Assets\ImageFace\DoomGoodFace.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomGoodFaceL.png">
+      <PackagePath>Assets\ImageFace\DoomGoodFaceL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomGoodFaceS.png">
+      <PackagePath>Assets\ImageFace\DoomGoodFaceS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomMussed.png">
+      <PackagePath>Assets\ImageFace\DoomMussed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomMussedL.png">
+      <PackagePath>Assets\ImageFace\DoomMussedL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomMussedS.png">
+      <PackagePath>Assets\ImageFace\DoomMussedS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomSwollen.png">
+      <PackagePath>Assets\ImageFace\DoomSwollen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomSwollenL.png">
+      <PackagePath>Assets\ImageFace\DoomSwollenL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\ImageFace\DoomSwollenS.png">
+      <PackagePath>Assets\ImageFace\DoomSwollenS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel Kaas\Documents\Visual Studio 2015\Projects\DoomFaceBattery\DoomFaceBattery\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

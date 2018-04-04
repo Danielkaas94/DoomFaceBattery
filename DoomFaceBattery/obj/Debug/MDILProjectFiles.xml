@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>DoomFaceBattery.dll</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\ImageFace\DoomBloody - Kopi.png</File>
+    <File>Assets\ImageFace\DoomBloody.png</File>
+    <File>Assets\ImageFace\DoomBloodyL.png</File>
+    <File>Assets\ImageFace\DoomBloodyS.png</File>
+    <File>Assets\ImageFace\DoomDirty.png</File>
+    <File>Assets\ImageFace\DoomDirtyL.png</File>
+    <File>Assets\ImageFace\DoomDirtyS.png</File>
+    <File>Assets\ImageFace\DoomGoodFace.png</File>
+    <File>Assets\ImageFace\DoomGoodFaceL.png</File>
+    <File>Assets\ImageFace\DoomGoodFaceS.png</File>
+    <File>Assets\ImageFace\DoomMussed.png</File>
+    <File>Assets\ImageFace\DoomMussedL.png</File>
+    <File>Assets\ImageFace\DoomMussedS.png</File>
+    <File>Assets\ImageFace\DoomSwollen.png</File>
+    <File>Assets\ImageFace\DoomSwollenL.png</File>
+    <File>Assets\ImageFace\DoomSwollenS.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>
