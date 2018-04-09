@@ -1,7 +1,7 @@
 # DoomFaceBattery
 Windows Phone 8.1 App
 
-Battery = Health
+Battery Percentage = Health %
 
 
 <p align="center">
