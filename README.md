@@ -10,8 +10,6 @@ Battery Percentage = Health %
 ![DoomBloodyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png)
 
 
-<!DOCTYPE html>
-
 <html>
    <head>
       <title>change picture</title>
@@ -20,16 +18,9 @@ Battery Percentage = Health %
               x = (x === images.length - 1) ? 0 : x + 1;
               document.getElementById("img").src = images[x];
           }
-
-          function displayPreviousImage() {
-              x = (x <= 0) ? images.length - 1 : x - 1;
-              document.getElementById("img").src = images[x];
-          }
-
           function startTimer() {
               setInterval(displayNextImage, 3000);
           }
-
           var images = [], x = -1;
           images[0] = "https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png";
           images[1] = "https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png";
