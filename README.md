@@ -11,7 +11,13 @@ Battery Percentage = Health %
 
 
 ## ScreenShot 📱
+
+### Full battery/health 🔋💯
 <p align="center">
   <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/wp_ss_20170822_0001.png">
-  
+</p>
+
+### 51% battery/health ⛑
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/wp_ss_20170905_0001.png">
 </p>
