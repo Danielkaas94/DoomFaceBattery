@@ -21,3 +21,9 @@ Battery Percentage = Health %
 <p align="center">
   <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/wp_ss_20170905_0001.png">
 </p>
+
+
+Join CodeWars with me!: www.codewars.com/r/hGyTsQ
+<p>
+  <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
+</p>
