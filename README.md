@@ -1,5 +1,5 @@
-# DoomFaceBattery :godmode:
-Windows Phone 8.1 App
+# DoomFaceBattery
+Windows Phone 8.1 App 🔌🔋
 
 Battery Percentage = Health %
 
