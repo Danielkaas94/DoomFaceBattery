@@ -28,7 +28,11 @@ Battery Percentage = Health %
 
 ### Dynamic Live Tile 📲
 <p align="center">
-  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomFace2.png">
+  <img alt="Windows Phone 8.1 live tile in Action!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomFace2.png">
+</p>
+
+<p align="center">
+  <img alt="CMDFun in Action!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomFace3.png">
 </p>
 
 
