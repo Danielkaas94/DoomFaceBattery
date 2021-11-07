@@ -9,6 +9,9 @@ Battery Percentage = Health %
 ![DoomDirtyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomDirtyS.png)
 ![DoomBloodyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png)
 
+<p align="center">
+  <img alt="Doom Guy Gif!" width="300" src="https://www.gifs.nl/media/doom-gifs-EjNcJY.gif">
+</p>
 
 ## ScreenShot 📱
 
