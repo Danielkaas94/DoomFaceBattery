@@ -3,11 +3,18 @@ Windows Phone 8.1 App 🔌🔋
 
 Battery Percentage = Health %
 
-![DoomGoodFaceS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png)
-![DoomMussedS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png)
-![DoomSwollenS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomSwollenS.png)
-![DoomDirtyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomDirtyS.png)
-![DoomBloodyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png)
+<p align="center">
+    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png">
+    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png">
+    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomSwollenS.png">
+    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomDirtyS.png">
+    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png">
+</p>
+    <!-- ![DoomGoodFaceS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png)
+    ![DoomMussedS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png)
+    ![DoomSwollenS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomSwollenS.png)
+    ![DoomDirtyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomDirtyS.png)
+    ![DoomBloodyS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png) -->
 
 <p align="center">
   <img alt="Doom Guy Gif!" width="300" src="https://www.gifs.nl/media/doom-gifs-EjNcJY.gif">
