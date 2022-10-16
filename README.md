@@ -4,11 +4,11 @@ Windows Phone 8.1 App 🔌🔋
 Battery Percentage = Health %
 
 <p align="center">
-    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png">
-    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png">
-    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomSwollenS.png">
-    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomDirtyS.png">
-    <img alt="Doom Guy Gif!" width="300" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png">
+    <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png">
+    <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png">
+    <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomSwollenS.png">
+    <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomDirtyS.png">
+    <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomBloodyS.png">
 </p>
     <!-- ![DoomGoodFaceS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png)
     ![DoomMussedS](https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png)
