@@ -20,6 +20,16 @@ Battery Percentage = Health %
   <img alt="Doom Guy Gif!" width="300" src="https://www.gifs.nl/media/doom-gifs-EjNcJY.gif">
 </p>
 
+<div align="center">
+    
+<a href="https://www.moddb.com/mods/thy-dark-rooms-of-finals" title="View ✝ Thy Dark Rooms of Finals ✝ on Mod DB" target="_blank"><img src="https://media.moddb.com/images/global/moddb.png" alt="✝ Thy Dark Rooms of Finals ✝" /></a>
+
+<a href="https://www.moddb.com/mods/thy-dark-rooms-of-finals" title="View ✝ Thy Dark Rooms of Finals ✝ on Mod DB" target="_blank"><img src="https://button.moddb.com/popularity/medium/mods/58310.png" alt="✝ Thy Dark Rooms of Finals ✝" /></a>
+
+<a href="https://www.moddb.com/mods/thy-dark-rooms-of-finals" title="View ✝ Thy Dark Rooms of Finals ✝ on Mod DB" target="_blank"><img src="https://media.moddb.com/images/global/moddb.png" alt="✝ Thy Dark Rooms of Finals ✝" /></a>
+
+</div>
+
 ## ScreenShot 📱
 
 ### Full Battery/Health 🔋💯
