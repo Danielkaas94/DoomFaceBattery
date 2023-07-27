@@ -3,6 +3,8 @@ Windows Phone 8.1 App 🔌🔋
 
 Battery Percentage = Health %
 
+.NET MAUI App version can be found here: [Danielkaas94/DoomBatteryApp_MAUI](https://github.com/Danielkaas94/DoomBatteryApp_MAUI),
+
 <p align="center">
     <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomGoodFaceS.png">
     <img alt="Doom Guy Gif!" width="100" src="https://github.com/Danielkaas94/DoomFaceBattery/blob/master/DoomFaceBattery/Assets/ImageFace/DoomMussedS.png">
